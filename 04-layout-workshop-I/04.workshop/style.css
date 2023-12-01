@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(20, 20, 42);
+}
+
+.box {
+  background:  rgb(40, 40, 84);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 7px;
+  width: auto;
+}
+
+.img-icon {
+  height: 25px;
+}
+
+p {
+  margin: 0;
+}
