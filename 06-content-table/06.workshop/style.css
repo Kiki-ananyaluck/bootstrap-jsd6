@@ -1,4 +1,4 @@
-.box {
+/* .box {
     background: lightseagreen;
     min-height: 75px;
     width: 100%;
@@ -8,9 +8,9 @@
     background-color: rgb(252, 167, 10);
     margin-top: 40px;
     /* padding: 0 !important; */
-    height: 100vh;
-  }
-  
+ /*    height: 100vh;
+  } */ 
+  /* 
   body::before {
     content: 'xs';
     color: white;
@@ -52,4 +52,4 @@
       content: 'xxl';
     }
   }
-  
+   */
